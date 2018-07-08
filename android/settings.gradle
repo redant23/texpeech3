@@ -1,0 +1,3 @@
+rootProject.name = 'Texpeech3'
+
+include ':app'
